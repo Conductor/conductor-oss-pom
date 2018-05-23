@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings
+.README.md.html
+bin
+target
+.idea
+*.iml
+pom.xml.versionsBackup
